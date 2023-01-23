@@ -232,7 +232,7 @@ en:
         valid: Valid
       title: Manage Users
   add_to_google_calendar: "Add to Google Calendar"
-  bigbluebutton: BigBlueButton
+  bigbluebutton: ActsacademyLive
   bigbluebutton_exception: Oops, there was an error when starting the meeting!
   cancel: Cancel
   cookies:
@@ -305,13 +305,12 @@ en:
   footer:
     legal: Terms
     privpolicy: Privacy Policy
-    powered_by: Powered by %{href}.
   forgot_password:
     subtitle: Forgot Password
     email: Email
     submit: Submit
   go_back: Go back
-  greenlight: Greenlight
+  greenlight: Actsconference
   header:
     all_recordings: All Recordings
     dropdown:
@@ -336,7 +335,7 @@ en:
     search:
       start: Start searching...
   landing:
-    about: "%{href} is a simple front-end for You can create your own rooms to host sessions, or join others using a short and convenient link."
+    about: Login or Signup to continue.. 
     welcome: Welcome to ACTS academy conferencing.
     video: Watch our tutorial on using this platform.
     upgrade: Show me how to upgrade to 2.0!
